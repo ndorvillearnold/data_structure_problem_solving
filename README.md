@@ -2,11 +2,11 @@ This repository contains my learning journey about palindromes, a fundamental co
 
 I am working on learning more about data structures
 
-# Data Structures and Algorithms: Palindrome
-## Table of Contents
+# Data Structures and Algorithms: 
 
 
-## Introduction
+
+
 **Palindrome**
 A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization). Palindromes are important in the study of string manipulation, pattern matching, and recursion.
 
